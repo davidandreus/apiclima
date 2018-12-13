@@ -48,4 +48,3 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'influxdb'
 gem 'open_weather'
 gem 'byebug'
-gem 'time'

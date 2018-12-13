@@ -10,6 +10,7 @@ class WeatherController < ApplicationController
         expect(true).to eq(true)
         render json: weather_response
     end
+  
 end
 
 
